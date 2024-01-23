@@ -1,0 +1,7 @@
+﻿  дз1.cpp
+C:\Users\SSoni\OneDrive\Рабочий стол\дз1\дз1\дз1.cpp(14,12): warning C4305: =: усечение из "double" в "float"
+C:\Users\SSoni\OneDrive\Рабочий стол\дз1\дз1\дз1.cpp(18,12): warning C4305: =: усечение из "double" в "float"
+C:\Users\SSoni\OneDrive\Рабочий стол\дз1\дз1\дз1.cpp(20,12): warning C4305: =: усечение из "double" в "float"
+C:\Users\SSoni\OneDrive\Рабочий стол\дз1\дз1\дз1.cpp(100,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\SSoni\OneDrive\Рабочий стол\дз1\дз1\дз1.cpp(113,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  дз1.vcxproj -> C:\Users\SSoni\OneDrive\Рабочий стол\дз1\x64\Debug\дз1.exe
